@@ -17,4 +17,4 @@ It identifies top-performing schools in Math and overall SAT, and visualizes sco
 - Python, Pandas, Matplotlib
 
 ## Visual
-![Standard Deviation of SAT Scores by Borough](visualization.png)
+![Standard Deviation of SAT Scores by Borough](Figure_1.png)
